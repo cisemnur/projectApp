@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726273838977",
+    "project_id": "projeapp-fb313",
+    "storage_bucket": "projeapp-fb313.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726273838977:android:977832f348cc11accde280",
+        "android_client_info": {
+          "package_name": "com.example.projectapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA0Y21cisiEDVFJ1RCgcLXF7L3D7wJTWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
