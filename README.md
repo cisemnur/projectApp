@@ -62,6 +62,8 @@
    # Bu README Dosyası uygulamanızın özelliklerini ve kullanımını net bir şekilde ifade edecek şekilde tasarlanmıştır.
 
 * Projeyi Hazırlayan : Çisemnur Şahin 132230010
+* 
+* https://youtu.be/DlDDkWyHj3A
 
 
    
